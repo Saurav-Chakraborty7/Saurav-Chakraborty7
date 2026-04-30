@@ -20,12 +20,12 @@ I test, break, debug, and improve systems for better delivery 🚀
 
 ## 🛠️ Skills
 
-![Manual Testing](https://img.shields.io/badge/-Manual_Testing-0A0A0A?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/-API_Testing_(Postman)-0A0A0A?style=for-the-badge)
-![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-0A0A0A?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=for-the-badge)
-![DevTools](https://img.shields.io/badge/-DevTools-0A0A0A?style=for-the-badge)
-![Network Debugging](https://img.shields.io/badge/-Network_Debugging-0A0A0A?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E1E1E?style=for-the-badge&logo=testing-library&logoColor=white)
+![API Testing (Postman)](https://img.shields.io/badge/API_Testing_Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Network Debugging](https://img.shields.io/badge/Network_Debugging-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 ---
 
