@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurav</h1>
+<h3 align="center">SQA Engineer | Automation | API Testing</h3>
 
-<!--
-**Saurav-Chakraborty7/Saurav-Chakraborty7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Manual Testing
+- API Testing (Postman)
+- WebdriverIO
+- Debugging (DevTools, Network)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+- Foodi Automation Framework
+- Sauce-Demo Automation Using Local AI Agent
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Saurav-Chakraborty7&show_icons=true)
+
+---
+
+### 📫 Connect
+- LinkedIn: [your-link](https://www.linkedin.com/in/indrajit-chakraborty/)
+- Email: talkwithindrajit@gmail.com
